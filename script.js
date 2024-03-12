@@ -34,7 +34,7 @@ function handleSubmission(event) {
 }
 // Function to render tasks in the table
 function render() {
-    // TODO: Use array methods to create a new table row of data for each item in the array
+    // TODO: Use array method to create a new table row of data for each item in the array
     taskTable.innerHTML = tasks.map(task =>
         `
         <tr>
