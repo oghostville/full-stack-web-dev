@@ -21,7 +21,7 @@ function handleSubmission(event) {
      const taskName = document.getElementById('taskName').value
      const taskDescription = document.getElementById('taskDescription').value
      const taskDeadline = document.getElementById('taskDeadline').value
-    // TODO: Validate input fields
+    // TODO: Validate input field
     if (taskName == ""){
         alert('Task name and deadline are required!');
         return false;
