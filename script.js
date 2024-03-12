@@ -1,7 +1,7 @@
 // script.js
 // Section 1: TODOs
 // TODO: Register submissions from the user on the form.
-// TODO: Determine the value of the data submitted and add it to a JavaScript array calle
+// TODO: Determine the value of the dta submitted and add it to a JavaScript array calle
 // TODO: Call the rendr function to update the table with the new tasks.
 // script.js
 // Section 2: App State Variables
